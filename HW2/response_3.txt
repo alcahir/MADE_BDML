@@ -1,0 +1,11 @@
+ 	tag	artist_name	listeners
+1	All	Jason Derulo	1872933
+2	alternative	Coldplay	5381567
+3	electronic	Coldplay	5381567
+4	experimental	Radiohead	4732528
+5	female vocalists	Rihanna	4558193
+6	indie	Coldplay	5381567
+7	pop	Coldplay	5381567
+8	rock	Coldplay	5381567
+9	seen live	Coldplay	5381567
+10	under 2000 listeners	Diddy - Dirty Money	503188
